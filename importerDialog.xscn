@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resource_file type="PackedScene" subresource_count="2" version="1.0" version_name="Godot Engine v1.0.stable.custom_build">
+	<ext_resource path="res://importerDialog.gd" type="Script"></ext_resource>
+	<main_resource>
+		<dictionary name="_bundled" shared="false">
+			<string> "names" </string>
+			<string_array  len="88">
+				<string> "TileSetImportDialog" </string>
+				<string> "ConfirmationDialog" </string>
+				<string> "_import_path" </string>
+				<string> "visibility/visible" </string>
+				<string> "visibility/opacity" </string>
+				<string> "visibility/self_opacity" </string>
+				<string> "margin/left" </string>
+				<string> "margin/right" </string>
+				<string> "margin/bottom" </string>
+				<string> "focus_neighbour/left" </string>
+				<string> "focus_neighbour/top" </string>
+				<string> "focus_neighbour/right" </string>
+				<string> "focus_neighbour/bottom" </string>
+				<string> "focus/ignore_mouse" </string>
+				<string> "focus/stop_mouse" </string>
+				<string> "size_flags/horizontal" </string>
+				<string> "size_flags/vertical" </string>
+				<string> "size_flags/stretch_ratio" </string>
+				<string> "popup/exclusive" </string>
+				<string> "window/title" </string>
+				<string> "script/script" </string>
+				<string> "__meta__" </string>
+				<string> "TabContainer" </string>
+				<string> "anchor/right" </string>
+				<string> "anchor/bottom" </string>
+				<string> "tab_align" </string>
+				<string> "tabs_visible" </string>
+				<string> "Single Texture" </string>
+				<string> "VBoxContainer" </string>
+				<string> "margin/top" </string>
+				<string> "Source Texture Label" </string>
+				<string> "Label" </string>
+				<string> "range/min" </string>
+				<string> "range/max" </string>
+				<string> "range/step" </string>
+				<string> "range/page" </string>
+				<string> "range/value" </string>
+				<string> "range/exp_edit" </string>
+				<string> "rounded_values" </string>
+				<string> "text" </string>
+				<string> "align" </string>
+				<string> "valign" </string>
+				<string> "autowrap" </string>
+				<string> "uppercase" </string>
+				<string> "percent_visible" </string>
+				<string> "Source" </string>
+				<string> "HBoxContainer" </string>
+				<string> "LineEdit" </string>
+				<string> "max_length" </string>
+				<string> "editable" </string>
+				<string> "secret" </string>
+				<string> "SelectTexture" </string>
+				<string> "Button" </string>
+				<string> "disabled" </string>
+				<string> "toggle_mode" </string>
+				<string> "click_on_press" </string>
+				<string> "icon" </string>
+				<string> "flat" </string>
+				<string> "clip_text" </string>
+				<string> "Target Path Label" </string>
+				<string> "Target" </string>
+				<string> "SelectDestination" </string>
+				<string> "Properties" </string>
+				<string> "GridContainer" </string>
+				<string> "columns" </string>
+				<string> "Tile Width" </string>
+				<string> "Value" </string>
+				<string> "SpinBox" </string>
+				<string> "prefix" </string>
+				<string> "suffix" </string>
+				<string> "Tile Spacing" </string>
+				<string> "Tile Height" </string>
+				<string> "Tile Padding" </string>
+				<string> "DestinationDialog" </string>
+				<string> "FileDialog" </string>
+				<string> "anchor/left" </string>
+				<string> "anchor/top" </string>
+				<string> "TextureDialog" </string>
+				<string> "ErrorDialog" </string>
+				<string> "AcceptDialog" </string>
+				<string> "_import" </string>
+				<string> "confirmed" </string>
+				<string> "_browse_source" </string>
+				<string> "pressed" </string>
+				<string> "_browse_target" </string>
+				<string> "_choose_target" </string>
+				<string> "file_selected" </string>
+				<string> "_choose_source" </string>
+			</string_array>
+			<string> "version" </string>
+			<int> 1 </int>
+			<string> "conn_count" </string>
+			<int> 5 </int>
+			<string> "node_count" </string>
+			<int> 27 </int>
+			<string> "variants" </string>
+			<array  len="65" shared="false">
+				<node_path> "" </node_path>
+				<bool> True </bool>
+				<real> 1 </real>
+				<real> -1 </real>
+				<real> 322 </real>
+				<real> 215 </real>
+				<bool> False </bool>
+				<int> 2 </int>
+				<string> "Import TileSet" </string>
+				<resource  resource_type="Script" path="res://importerDialog.gd">  </resource>
+				<dictionary  shared="false">
+					<string> "__editor_plugin_states__" </string>
+					<dictionary  shared="false">
+						<string> "Script" </string>
+						<dictionary  shared="false">
+							<string> "current" </string>
+							<int> 0 </int>
+							<string> "sources" </string>
+							<array  len="1" shared="false">
+								<string> "res://importerDialog.gd" </string>
+							</array>
+						</dictionary>
+						<string> "2D" </string>
+						<dictionary  shared="false">
+							<string> "pixel_snap" </string>
+							<bool> False </bool>
+							<string> "zoom" </string>
+							<real> 1 </real>
+							<string> "use_snap" </string>
+							<bool> False </bool>
+							<string> "ofs" </string>
+							<vector2> -119.63, -45.7914 </vector2>
+							<string> "snap" </string>
+							<int> 10 </int>
+						</dictionary>
+						<string> "3D" </string>
+						<dictionary  shared="false">
+							<string> "deflight_rot_y" </string>
+							<real> 0.628319 </real>
+							<string> "zfar" </string>
+							<real> 500 </real>
+							<string> "fov" </string>
+							<real> 45 </real>
+							<string> "viewports" </string>
+							<array  len="4" shared="false">
+								<dictionary  shared="false">
+									<string> "distance" </string>
+									<real> 4 </real>
+									<string> "x_rot" </string>
+									<real> 0 </real>
+									<string> "y_rot" </string>
+									<real> 0 </real>
+									<string> "listener" </string>
+									<bool> True </bool>
+									<string> "use_environment" </string>
+									<bool> False </bool>
+									<string> "use_orthogonal" </string>
+									<bool> False </bool>
+									<string> "pos" </string>
+									<vector3> 0, 0, 0 </vector3>
+								</dictionary>
+								<dictionary  shared="false">
+									<string> "distance" </string>
+									<real> 4 </real>
+									<string> "x_rot" </string>
+									<real> 0 </real>
+									<string> "y_rot" </string>
+									<real> 0 </real>
+									<string> "listener" </string>
+									<bool> False </bool>
+									<string> "use_environment" </string>
+									<bool> False </bool>
+									<string> "use_orthogonal" </string>
+									<bool> False </bool>
+									<string> "pos" </string>
+									<vector3> 0, 0, 0 </vector3>
+								</dictionary>
+								<dictionary  shared="false">
+									<string> "distance" </string>
+									<real> 4 </real>
+									<string> "x_rot" </string>
+									<real> 0 </real>
+									<string> "y_rot" </string>
+									<real> 0 </real>
+									<string> "listener" </string>
+									<bool> False </bool>
+									<string> "use_environment" </string>
+									<bool> False </bool>
+									<string> "use_orthogonal" </string>
+									<bool> False </bool>
+									<string> "pos" </string>
+									<vector3> 0, 0, 0 </vector3>
+								</dictionary>
+								<dictionary  shared="false">
+									<string> "distance" </string>
+									<real> 4 </real>
+									<string> "x_rot" </string>
+									<real> 0 </real>
+									<string> "y_rot" </string>
+									<real> 0 </real>
+									<string> "listener" </string>
+									<bool> False </bool>
+									<string> "use_environment" </string>
+									<bool> False </bool>
+									<string> "use_orthogonal" </string>
+									<bool> False </bool>
+									<string> "pos" </string>
+									<vector3> 0, 0, 0 </vector3>
+								</dictionary>
+							</array>
+							<string> "viewport_mode" </string>
+							<int> 1 </int>
+							<string> "default_light" </string>
+							<bool> True </bool>
+							<string> "ambient_light_color" </string>
+							<color> 0.15, 0.15, 0.15, 1 </color>
+							<string> "show_grid" </string>
+							<bool> True </bool>
+							<string> "show_origin" </string>
+							<bool> True </bool>
+							<string> "znear" </string>
+							<real> 0.1 </real>
+							<string> "default_srgb" </string>
+							<bool> False </bool>
+							<string> "deflight_rot_x" </string>
+							<real> 0.942478 </real>
+						</dictionary>
+					</dictionary>
+					<string> "__editor_run_settings__" </string>
+					<dictionary  shared="false">
+						<string> "custom_args" </string>
+						<string> "-l $scene" </string>
+						<string> "run_mode" </string>
+						<int> 0 </int>
+					</dictionary>
+					<string> "__editor_plugin_screen__" </string>
+					<string> "2D" </string>
+				</dictionary>
+				<int> 1 </int>
+				<real> 40 </real>
+				<int> 0 </int>
+				<real> 4 </real>
+				<real> 31 </real>
+				<real> 315 </real>
+				<real> 13 </real>
+				<real> 0 </real>
+				<string> "Source Texture:" </string>
+				<real> 17 </real>
+				<dictionary  shared="false">
+					<string> "_editor_collapsed" </string>
+					<bool> True </bool>
+				</dictionary>
+				<real> 283 </real>
+				<real> 23 </real>
+				<int> 3 </int>
+				<string> "" </string>
+				<real> 287 </real>
+				<string> " .. " </string>
+				<resource name=""></resource>				<real> 44 </real>
+				<real> 57 </real>
+				<string> "Target Path:" </string>
+				<real> 61 </real>
+				<real> 84 </real>
+				<dictionary  shared="false">
+					<string> "_editor_collapsed" </string>
+					<bool> True </bool>
+				</dictionary>
+				<real> 88 </real>
+				<real> 138 </real>
+				<real> 151 </real>
+				<dictionary  shared="false">
+					<string> "_editor_collapsed" </string>
+					<bool> True </bool>
+				</dictionary>
+				<real> 5 </real>
+				<real> 85 </real>
+				<real> 18 </real>
+				<string> "Tile Width:" </string>
+				<real> 89 </real>
+				<real> 65535 </real>
+				<real> 64 </real>
+				<real> 155 </real>
+				<real> 314 </real>
+				<dictionary  shared="false">
+					<string> "_editor_collapsed" </string>
+					<bool> True </bool>
+				</dictionary>
+				<real> 93 </real>
+				<string> "Tile Spacing:" </string>
+				<real> 97 </real>
+				<real> 159 </real>
+				<real> 27 </real>
+				<real> 50 </real>
+				<dictionary  shared="false">
+					<string> "_editor_collapsed" </string>
+					<bool> True </bool>
+				</dictionary>
+				<string> "Tile Height:" </string>
+				<dictionary  shared="false">
+					<string> "_editor_collapsed" </string>
+					<bool> True </bool>
+				</dictionary>
+				<string> "Tile Padding:" </string>
+				<real> 200 </real>
+				<real> -200 </real>
+				<string> "Save a File" </string>
+				<real> 496 </real>
+				<real> 416 </real>
+				<string> "Alert!" </string>
+			</array>
+			<string> "nodes" </string>
+			<int_array  len="1369"> 				-1, -1, 1, 0, -1, 20, 2, 0, 3, 1, 4, 2, 5, 2, 6, 3, 7, 4, 8, 5, 9, 0, 10, 0, 11, 0, 12, 0, 13, 6, 14, 1, 15, 7, 16, 7, 17, 2, 18, 6, 19, 8, 20, 9, 21, 10, 0, 0, 0, 22, 22, -1, 18, 2, 0, 3, 1, 4, 2, 5, 2, 23, 11, 24, 11, 8, 12, 9, 0, 10, 0, 11, 0, 12, 0, 13, 6, 14, 1, 15, 7, 16, 7, 17, 2, 25, 13, 26, 1, 0, 1, 0, 28, 27, -1, 19, 2, 0, 3, 1, 4, 2, 5, 2, 23, 11, 24, 11, 6, 14, 29, 15, 7, 14, 8, 14, 9, 0, 10, 0, 11, 0, 12, 0, 13, 6, 14, 6, 15, 7, 16, 7, 17, 2, 0, 2, 0, 31, 30, -1, 27, 2, 0, 3, 1, 4, 2, 5, 2, 7, 16, 8, 17, 9, 0, 10, 0, 11, 0, 12, 0, 13, 1, 14, 1, 15, 7, 17, 2, 32, 18, 33, 2, 34, 2, 35, 2, 36, 18, 37, 6, 38, 6, 39, 19, 40, 13, 41, 13, 42, 6, 43, 6, 44, 3, 0, 2, 0, 46, 45, -1, 17, 2, 0, 3, 1, 4, 2, 5, 2, 29, 20, 7, 16, 8, 12, 9, 0, 10, 0, 11, 0, 12, 0, 13, 6, 14, 6, 15, 7, 16, 7, 17, 2, 21, 21, 0, 4, 0, 47, 47, -1, 19, 2, 0, 3, 1, 4, 2, 5, 2, 7, 22, 8, 23, 9, 0, 10, 0, 11, 0, 12, 0, 13, 6, 14, 1, 15, 24, 16, 7, 17, 2, 39, 25, 48, 13, 49, 1, 50, 6, 0, 4, 0, 52, 51, -1, 24, 2, 0, 3, 1, 4, 2, 5, 2, 6, 26, 7, 16, 8, 23, 9, 0, 10, 0, 11, 0, 12, 0, 13, 6, 14, 1, 15, 7, 16, 7, 17, 2, 53, 6, 54, 6, 55, 6, 39, 27, 56, 28, 57, 6, 58, 6, 40, 11, 0, 2, 0, 31, 59, -1, 28, 2, 0, 3, 1, 4, 2, 5, 2, 29, 29, 7, 16, 8, 30, 9, 0, 10, 0, 11, 0, 12, 0, 13, 1, 14, 1, 15, 7, 17, 2, 32, 18, 33, 2, 34, 2, 35, 2, 36, 18, 37, 6, 38, 6, 39, 31, 40, 13, 41, 13, 42, 6, 43, 6, 44, 3, 0, 2, 0, 46, 60, -1, 17, 2, 0, 3, 1, 4, 2, 5, 2, 29, 32, 7, 16, 8, 33, 9, 0, 10, 0, 11, 0, 12, 0, 13, 6, 14, 6, 15, 7, 16, 7, 17, 2, 21, 34, 0, 8, 0, 47, 47, -1, 19, 2, 0, 3, 1, 4, 2, 5, 2, 7, 22, 8, 23, 9, 0, 10, 0, 11, 0, 12, 0, 13, 6, 14, 1, 15, 24, 16, 7, 17, 2, 39, 25, 48, 13, 49, 1, 50, 6, 0, 8, 0, 52, 61, -1, 24, 2, 0, 3, 1, 4, 2, 5, 2, 6, 26, 7, 16, 8, 23, 9, 0, 10, 0, 11, 0, 12, 0, 13, 6, 14, 1, 15, 7, 16, 7, 17, 2, 53, 6, 54, 6, 55, 6, 39, 27, 56, 28, 57, 6, 58, 6, 40, 11, 0, 2, 0, 63, 62, -1, 17, 2, 0, 3, 1, 4, 2, 5, 2, 29, 35, 7, 16, 8, 36, 9, 0, 10, 0, 11, 0, 12, 0, 13, 6, 14, 6, 15, 7, 16, 7, 17, 2, 64, 7, 0, 11, 0, 46, 65, -1, 16, 2, 0, 3, 1, 4, 2, 5, 2, 7, 37, 8, 23, 9, 0, 10, 0, 11, 0, 12, 0, 13, 6, 14, 6, 15, 24, 16, 7, 17, 2, 21, 38, 0, 12, 0, 31, 31, -1, 28, 2, 0, 3, 1, 4, 2, 5, 2, 29, 39, 7, 40, 8, 41, 9, 0, 10, 0, 11, 0, 12, 0, 13, 1, 14, 1, 15, 24, 17, 2, 32, 18, 33, 2, 34, 2, 35, 2, 36, 18, 37, 6, 38, 6, 39, 42, 40, 13, 41, 13, 42, 6, 43, 6, 44, 3, 0, 12, 0, 67, 66, -1, 26, 2, 0, 3, 1, 4, 2, 5, 2, 6, 43, 7, 37, 8, 23, 9, 0, 10, 0, 11, 0, 12, 0, 13, 6, 14, 1, 15, 7, 16, 7, 17, 2, 32, 2, 33, 44, 34, 2, 35, 18, 36, 45, 37, 6, 38, 6, 49, 1, 68, 25, 69, 25, 0, 11, 0, 46, 70, -1, 17, 2, 0, 3, 1, 4, 2, 5, 2, 6, 46, 7, 47, 8, 23, 9, 0, 10, 0, 11, 0, 12, 0, 13, 6, 14, 6, 15, 24, 16, 7, 17, 2, 21, 48, 0, 15, 0, 31, 31, -1, 28, 2, 0, 3, 1, 4, 2, 5, 2, 29, 39, 7, 49, 8, 41, 9, 0, 10, 0, 11, 0, 12, 0, 13, 1, 14, 1, 15, 24, 17, 2, 32, 18, 33, 2, 34, 2, 35, 2, 36, 18, 37, 6, 38, 6, 39, 50, 40, 13, 41, 13, 42, 6, 43, 6, 44, 3, 0, 15, 0, 67, 66, -1, 26, 2, 0, 3, 1, 4, 2, 5, 2, 6, 51, 7, 52, 8, 23, 9, 0, 10, 0, 11, 0, 12, 0, 13, 6, 14, 1, 15, 7, 16, 7, 17, 2, 32, 18, 33, 44, 34, 2, 35, 18, 36, 18, 37, 6, 38, 6, 49, 1, 68, 25, 69, 25, 0, 11, 0, 46, 71, -1, 17, 2, 0, 3, 1, 4, 2, 5, 2, 29, 53, 7, 37, 8, 54, 9, 0, 10, 0, 11, 0, 12, 0, 13, 6, 14, 6, 15, 24, 16, 7, 17, 2, 21, 55, 0, 18, 0, 31, 31, -1, 28, 2, 0, 3, 1, 4, 2, 5, 2, 29, 39, 7, 40, 8, 41, 9, 0, 10, 0, 11, 0, 12, 0, 13, 1, 14, 1, 15, 24, 17, 2, 32, 18, 33, 2, 34, 2, 35, 2, 36, 18, 37, 6, 38, 6, 39, 56, 40, 13, 41, 13, 42, 6, 43, 6, 44, 3, 0, 18, 0, 67, 66, -1, 26, 2, 0, 3, 1, 4, 2, 5, 2, 6, 43, 7, 37, 8, 23, 9, 0, 10, 0, 11, 0, 12, 0, 13, 6, 14, 1, 15, 7, 16, 7, 17, 2, 32, 2, 33, 44, 34, 2, 35, 18, 36, 45, 37, 6, 38, 6, 49, 1, 68, 25, 69, 25, 0, 11, 0, 46, 72, -1, 18, 2, 0, 3, 1, 4, 2, 5, 2, 6, 46, 29, 53, 7, 47, 8, 54, 9, 0, 10, 0, 11, 0, 12, 0, 13, 6, 14, 6, 15, 24, 16, 7, 17, 2, 21, 57, 0, 21, 0, 31, 31, -1, 28, 2, 0, 3, 1, 4, 2, 5, 2, 29, 39, 7, 49, 8, 41, 9, 0, 10, 0, 11, 0, 12, 0, 13, 1, 14, 1, 15, 24, 17, 2, 32, 18, 33, 2, 34, 2, 35, 2, 36, 18, 37, 6, 38, 6, 39, 58, 40, 13, 41, 13, 42, 6, 43, 6, 44, 3, 0, 21, 0, 67, 66, -1, 26, 2, 0, 3, 1, 4, 2, 5, 2, 6, 51, 7, 52, 8, 23, 9, 0, 10, 0, 11, 0, 12, 0, 13, 6, 14, 1, 15, 7, 16, 7, 17, 2, 32, 18, 33, 44, 34, 2, 35, 18, 36, 18, 37, 6, 38, 6, 49, 1, 68, 25, 69, 25, 0, 0, 0, 74, 73, -1, 23, 2, 0, 3, 6, 4, 2, 5, 2, 75, 24, 76, 24, 23, 24, 24, 24, 6, 59, 29, 59, 7, 60, 8, 60, 9, 0, 10, 0, 11, 0, 12, 0, 13, 6, 14, 1, 15, 7, 16, 7, 17, 2, 18, 6, 19, 61, 0, 0, 0, 74, 77, -1, 17, 2, 0, 3, 6, 4, 2, 5, 2, 7, 62, 8, 63, 9, 0, 10, 0, 11, 0, 12, 0, 13, 6, 14, 1, 15, 7, 16, 7, 17, 2, 18, 6, 19, 61, 0, 0, 0, 79, 78, -1, 17, 2, 0, 3, 6, 4, 2, 5, 2, 7, 12, 8, 12, 9, 0, 10, 0, 11, 0, 12, 0, 13, 6, 14, 1, 15, 7, 16, 7, 17, 2, 18, 6, 19, 64, 0 </int_array>
+			<string> "conns" </string>
+			<int_array  len="30"> 				0, 0, 81, 80, 2, 0, 6, 0, 83, 82, 2, 0, 10, 0, 83, 84, 2, 0, 24, 0, 86, 85, 2, 0, 25, 0, 86, 87, 2, 0 </int_array>
+		</dictionary>
+
+	</main_resource>
+</resource_file>
