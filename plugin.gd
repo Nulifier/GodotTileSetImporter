@@ -13,9 +13,6 @@ func _enter_tree():
 	editor.add_editor_import_plugin(importer)
 
 func _exit_tree():
-	button.free()
-	button = null
-
 	var editor = get_node("/root/EditorNode")
 	editor.remove_editor_import_plugin(importer)
 	importer = null
