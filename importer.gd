@@ -10,6 +10,9 @@ func _init(_editor):
 	dialog = ImporterDialog.instance()
 	dialog.plugin = self
 
+func _free():
+	dialog.free()
+
 func get_name():
 	return "tileSet_importer"
 
